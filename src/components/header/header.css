@@ -1,0 +1,8 @@
+.logo-img {
+  margin-top: -10px; /* Ajustez cette valeur selon vos besoins */
+  height: auto; /* Pour garder les proportions de l'image */
+}
+
+.header-links {
+  font-size: 18px; /* Taille de police souhaitée */
+}

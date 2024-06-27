@@ -1,0 +1,22 @@
+/* search.css */
+.custom-search-input {
+  width: 100px; /* Adjust the width as needed */
+  border: 1px solid #ccc; /* Change the border color */
+  border-radius: 4px; /* Rounded corners */
+  padding: 5px; /* Inner padding */
+  height: 23px;
+}
+
+.custom-search-button {
+  background-color: #FDC600; /* Custom background color */
+  color: white; /* Text color */
+  border: none; /* Remove border */
+  padding: 0px 5px; /* Padding for button */
+  border-radius: 4px; /* Rounded corners */
+  margin-left: 5px;
+  height: 35px;
+}
+
+.custom-search-button:hover {
+  background-color: #c2c2c2;
+}
